@@ -1,3 +1,6 @@
+##### 项目结构
+###### test-files中为C语言测试代码
+###### src中为项目代码
 ##### 联系方式（contact details）
 
 email:qiushuang820@outlook.com qq:1398251221
