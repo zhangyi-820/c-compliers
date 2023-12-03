@@ -3,7 +3,7 @@
 ###### src中为项目代码
 ##### 联系方式（contact details）
 
-email:qiushuang820@outlook.com qq:1398251221
+email:qiushuang820@outlook.com
 
 ##### 项目介绍（project instraction）
 
